@@ -1,9 +1,9 @@
-Machine Learning with Node.js and Prediction.io
-===============================================
+Machine Learning with PHP and Prediction.io
+===========================================
 
 > TV show recommendation engine built in PHP using [Prediction.io](http://prediction.io).
 
-Talk at ViennaPHP on 8 September 2014 by [Florian Eckerstorfer](http://florian.ec)
+Talk at ViennaPHP on 8 September 2014 by [Florian Eckerstorfer](https://florian.ec)
 
 
 Installation
