@@ -1,0 +1,14 @@
+{
+    "name": "florianeckerstorfer/viennaphp-predictionio",
+    "authors": [
+        {
+            "name": "Florian Eckerstorfer",
+            "email": "florian@eckerstorfer.co"
+        }
+    ],
+    "require": {
+        "silex/silex": "~1.2",
+        "predictionio/predictionio": "~0.7",
+        "twig/twig": "~1.16"
+    }
+}
