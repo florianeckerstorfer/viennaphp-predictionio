@@ -3,7 +3,7 @@ Machine Learning with PHP and Prediction.io
 
 > TV show recommendation engine built in PHP using [Prediction.io](http://prediction.io).
 
-Talk at ViennaPHP on 8 September 2014 by [Florian Eckerstorfer](https://florian.ec)
+Talk at ViennaPHP on 8 September 2014 by [Florian Eckerstorfer](https://florian.ec). You can find the [slides of this presentation](https://speakerdeck.com/florianeckerstorfer/machine-learning-with-predictionio-and-php) on Speakerdeck.
 
 
 Installation
