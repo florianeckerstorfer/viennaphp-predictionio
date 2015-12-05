@@ -20,10 +20,10 @@ mkdir -p $SETUP_DIR
 chown -R $USER:$USER $SETUP_DIR
 
 echo "Install PHP"
-apt-get install python-software-properties --force-yes --yes
 add-apt-repository ppa:ondrej/php5 --yes
 apt-get update --yes
-apt-get install php5 --force-yes --yes
+apt-get install python-software-properties --force-yes --yes
+apt-get install php5 php5-curl --force-yes --yes
 
 cd $APP_DIR
 
